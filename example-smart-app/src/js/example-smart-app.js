@@ -18,8 +18,8 @@
                         $or: ['http://loinc.org|8302-2', //body height
                               'http://loinc.org|2085-9', //Cholestrol hgl
                               'http://loinc.org|2089-1', // LDL
-                              'http://loinc.org|85354-9' //Blood pressure systolic and diastolic
-                              'http://loinc.org|8310-5', // Temperature 
+                              'http://loinc.org|85354-9', //Blood pressure systolic and diastolic
+                              'http://loinc.org|8310-5' // Temperature 
                              ]
                       }
                     }
